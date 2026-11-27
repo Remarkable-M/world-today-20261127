@@ -1,0 +1,82 @@
+{
+  "competition": "news-image-20261127",
+  "date_line": "Friday, 27 November 2026",
+  "masthead": "THE WORLD TODAY",
+  "lead": {
+    "headline": "Iranian Drone Strike in Kuwait Kills Two Italian Technicians",
+    "summary": "An Iranian drone attack in Kuwait killed two Italian technicians employed by a subsidiary of German defence group Rheinmetall, Italy's foreign minister confirmed, as attacks on Gulf shipping and energy infrastructure mount this week.",
+    "source": "Reuters"
+  },
+  "stories": [
+    {
+      "section": "WORLD",
+      "headline": "Trump Demands Probe of GDP Data Released Before Midterms",
+      "summary": "The president called the growth figures 'fake' but offered no evidence, after Republicans suffered heavy losses in the 3 November midterm elections.",
+      "source": "Reuters"
+    },
+    {
+      "section": "WORLD",
+      "headline": "Russia Hits Two Grain Ships Near Odesa",
+      "summary": "Ukraine says overnight Russian strikes hit two foreign grain vessels carrying more than 100,000 tonnes of grain, again threatening the Black Sea grain corridor.",
+      "source": "Reuters"
+    },
+    {
+      "section": "WORLD",
+      "headline": "Guinea-Bissau Military Pushes Elections to 2028",
+      "summary": "The military leadership delayed next month's vote by about two years, extending the transition promised after last year's coup and dashing hopes of a swift return to civilian rule.",
+      "source": "Reuters"
+    },
+    {
+      "section": "WORLD",
+      "headline": "Xi Calls for High-Quality Intra-Party Regulations",
+      "summary": "Xi Jinping instructed that rule-based Party governance remain the basic approach to governing the Party, as a national conference on intra-Party regulations met in Beijing.",
+      "source": "Xinhua"
+    },
+    {
+      "section": "BUSINESS",
+      "headline": "Oil Climbs to $94.8 on Gulf Supply Fears",
+      "summary": "Brent crude rose after Houthi forces claimed a strike on Saudi Arabia's largest refinery and two ships struck mines in the Strait of Hormuz.",
+      "source": "Reuters"
+    },
+    {
+      "section": "BUSINESS",
+      "headline": "Nvidia Slides 3.9% as S&P Puts Rating on Watch",
+      "summary": "Shares fell to $149.30 after S&P placed the chipmaker's rating on watch for a possible downgrade, citing board oversight concerns.",
+      "source": "Reuters"
+    },
+    {
+      "section": "BUSINESS",
+      "headline": "Dell's AI Server Revenue Jumps 291%",
+      "summary": "Third-quarter revenue rose 103% to $54.9 billion, with AI-optimised server revenue up 291% to $22 billion as demand for compute keeps surging.",
+      "source": "Daily AI Brief"
+    },
+    {
+      "section": "SCIENCE & TECH",
+      "headline": "Google Agent Drafts Six Math Papers From One-Line Prompts",
+      "summary": "Google Research's Cogentic agent, built on Gemini 4, produced six mathematics papers, including a proved factoring result; the work is public but not yet independently verified.",
+      "source": "AI News"
+    },
+    {
+      "section": "SCIENCE & TECH",
+      "headline": "Anthropic Says Claude Proved VP ≠ VNP",
+      "summary": "Anthropic published a Claude-authored proof, with a Lean 4 formal version, that VP differs from VNP over all fields; no mathematician has checked it yet, and it does not settle P vs NP. OpenAI reported the same result independently.",
+      "source": "Daily AI Brief"
+    },
+    {
+      "section": "SCIENCE & TECH",
+      "headline": "Anthropic Rewrites Its API in Rust, With Claude",
+      "summary": "Claude rewrote the production Messages API from Python to Rust in about a week; Anthropic reports roughly 70% less CPU per request and about 20% faster median first-token latency.",
+      "source": "AI News"
+    },
+    {
+      "section": "SCIENCE & TECH",
+      "headline": "Classical GPUs Match IBM's 'Quantum Advantage' Circuit",
+      "summary": "Chinese researchers sampled the very circuit of IBM's quantum-advantage experiment on 8 GPUs in 864 seconds, at fidelity of at least 0.908, directly challenging the claim (arXiv:2611.32757).",
+      "source": "Quantum Brief"
+    }
+  ],
+  "on_this_day": {
+    "year": "1895",
+    "text": "Alfred Nobel signs his will in Paris, leaving some 31 million Swedish kronor to found the Nobel Prizes for those who 'conferred the greatest benefit to humankind'. First awarded in 1901, the prizes turn 125 this year."
+  }
+}
